@@ -1,7 +1,7 @@
 
 # Block Cutter
 
-## Download: [Releases Page](https://modrinth.com/datapack/blockcutter)
+## Download: [Modrinth](https://modrinth.com/datapack/blockcutter/version/latest)
 ### Minecraft Versions: 1.21 - 1.21.11
 Adds quality of life features to the stonecutter and more!
 
