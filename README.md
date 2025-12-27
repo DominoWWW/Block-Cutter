@@ -12,7 +12,8 @@ Adds quality of life features to the stonecutter and more!
 
 ## Wiki
 **Recipes**:
-![](https://github.com/DominoWWW/Block-Cutter/blob/main/readme-images/recipes.gif?raw=true)
+
+<img src="https://github.com/DominoWWW/Block-Cutter/blob/main/readme-images/recipes.gif?raw=true" width="300"/>
 
 **Installing:**
 Insert the zip file into your datapacks folder.
