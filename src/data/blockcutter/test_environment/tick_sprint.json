@@ -1,0 +1,5 @@
+{
+    "type": "function",
+    "setup": "blockcutter:test/environment/tick_sprint",
+    "teardown": "blockcutter:test/environment/tick_sprint_stop"
+}

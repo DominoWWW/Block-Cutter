@@ -1,0 +1,18 @@
+{
+    "name": "Blockcutter",
+    "author": "DominoWWW",
+    "version": "1.2",
+    "require": [
+        "bolt"
+    ],
+    "data_pack": {
+        "name": "Blockcutter_v1.2",
+        "description": [{"text":"Convert all blocks with stairs and slab, back to blocks.","color":"gold"},{"text":"\nby DominoWWW","italic":true,"color":"yellow"}],
+        "min_format": [88],
+        "max_format": [94, 1],
+        "zipped": false,
+        "load": ["src"]
+    },
+    "pipeline": ["mecha", "recipes.create_recipes"],
+    "output": "build"
+}
