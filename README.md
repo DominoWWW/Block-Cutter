@@ -1,7 +1,7 @@
 
-# BlockCutter
+# Block Cutter
 
-## Download: [Releases Page](https://github.com/DominoWWW/BlockCutter/releases)
+## Download: [Releases Page](https://modrinth.com/datapack/blockcutter)
 ### Minecraft Versions: 1.21 - 1.21.11
 Adds quality of life features to the stonecutter and more!
 
@@ -12,7 +12,7 @@ Adds quality of life features to the stonecutter and more!
 
 ## Wiki
 **Recipes**:
-![ ](readme-images\recipes.gif)
+![](https://github.com/DominoWWW/Block-Cutter/blob/main/readme-images/recipes.gif?raw=true)
 
 **Installing:**
 Insert the zip file into your datapacks folder.
