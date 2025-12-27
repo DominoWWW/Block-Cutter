@@ -13,6 +13,6 @@
         "zipped": false,
         "load": ["src"]
     },
-    "pipeline": ["mecha", "recipes.create_recipes"],
+    "pipeline": ["mecha", "modules.recipes.create_recipes"],
     "output": "build"
 }
